@@ -1,0 +1,1 @@
+# Development-of-Python-Classes-for-the-Vortex-Lattice-Method-and-Thin-Airfoil-Theory
